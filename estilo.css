@@ -1,0 +1,45 @@
+body{
+	background: url(./fundon.png) center;
+	font: 16px Arial, helvetica, sans-serif;
+
+}
+#principal {
+	
+	width: 900px;
+	color:white; 
+
+}
+#menu{
+	background: #0080FF;
+	padding: 18px;
+}
+#conteudo {
+	background: #0174DF center;
+	padding: 10px;
+}
+#conteudo2 {
+	background: #0174DF;
+	padding: 10px;
+
+}
+.italico{
+	font-style: italic;
+}
+.centralizar{
+	text-align: center;
+	color: black;
+}
+.tabela{
+	font-size: 3em;
+}
+a {
+	color: #0B0B61;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+h1{
+	color: #FAFAFA;
+	font-size: 3em;
+
+}
